@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I like to think the nature as complex geometry 🧠🤖💥. Let's find the best way to understand the world. And This is geometric deep learning. 
 <!--
 **fokhruli/fokhruli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
