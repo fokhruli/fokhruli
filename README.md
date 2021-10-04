@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 
 ## You can email me about any query.
-* Mail: [fokhrul.rmedu@gmail.com](mailto:fokhrul.rmedu@gmail.com)
+* Mail me @ [fokhrul.rmedu@gmail.com](mailto:fokhrul.rmedu@gmail.com)
