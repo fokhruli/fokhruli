@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## You can email me about any query.
 * Mail me @ [fokhrul.rmedu@gmail.com](mailto:fokhrul.rmedu@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokhruli&show_icons=true&locale=en&layout=compact" alt="fokhruli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username='Md Fokhrul Islam'&show_icons=true&locale=en&layout=compact" alt="fokhruli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fokhruli&show_icons=true&locale=en" alt="fokhruli" /></p>
 
