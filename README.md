@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![fokhrul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fokhruli&&theme=xcode)](https://github.com/fokhruli)
+[![fokhrul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fokhruli&&theme=xcode)](https://github.com/fokhruli/fokhruli)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokhruli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fokhruli" /></p>
 
