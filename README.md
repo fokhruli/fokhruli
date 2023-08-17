@@ -32,3 +32,9 @@ Here are some ideas to get you started:
 
 ## You can email me about any query.
 * Mail me @ [fokhrul.rmedu@gmail.com](mailto:fokhrul.rmedu@gmail.com)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uk-roy&show_icons=true&locale=en&layout=compact" alt="uk-roy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uk-roy&show_icons=true&locale=en" alt="uk-roy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uk-roy&" alt="uk-roy" /></p>
