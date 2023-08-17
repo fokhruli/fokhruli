@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/fokhrul_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fokhrul-islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.facebook.com/FOKHRUL.DU" target="_blank"><img align="center" src="https://github.com/fokhruli/fokhruli/blob/main/facebook.svg?raw=true" alt="My Facebook Profile" height="40" width="40">
+<a href="https://www.facebook.com/FOKHRUL.DU" target="_blank"><img align="center" src="https://github.com/fokhruli/fokhruli/blob/main/facebook.svg?raw=true" alt="My Facebook Profile" height="30" width="40">
 </a>
 </p>
 
 
-[![fokhrul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fokhruli&&theme=xcode)](https://github.com/fokhruli/fokhruli)
+[![fokhrul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fokhruli&theme=xcode)](https://github.com/fokhrul)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokhruli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fokhruli" /></p>
 
