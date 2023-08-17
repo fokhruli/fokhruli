@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **pytorch lightening**
 
-- 💬 Ask me about **Robotics , Machine learning **
+- 💬 Ask me about **Robotics, Machine learning **
 
 - 📫 How to reach me **fokhrul.rmedu@gmail.com**
 
-- ⚡ Fun fact **I love books that aren't easy to understand!**
+- ⚡ Fun fact: **I love books that aren't easy to understand!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
