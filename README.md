@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fokhruli&label=Profile%200views&color=0e75b6&style=flat" alt="fokhruli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fokhruli&label=Profile%20views&color=0e75b6&style=flat" alt="fokhruli" /> </p>
 
 ## Reach me here
 <a href="https://twitter.com/fokhrul_i" target="_blank">
