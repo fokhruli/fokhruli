@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 <!--<a href="https://medium.com/@buabajerry" target="_blank">
   <img src="https://github.com/buabaj/buabaj/blob/master/medium.svg?raw=true" alt="My Medium Profile" height="35" width="35">
-</a>-->
+</a>
 <a href="https://www.linkedin.com/in/fokhrul-islam/" target="_blank">
   <img src="https://github.com/fokhruli/fokhruli/blob/main/linkedin.svg?raw=true" alt="My LinkedIn Profile" height="35" width="35">
 </a>
