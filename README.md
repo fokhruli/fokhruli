@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fokhruli&label=Profile%20views&color=0e75b6&style=flat" alt="fokhruli" /> </p>
-
+<!--
 ## Reach me here
 <a href="https://twitter.com/fokhrul_i" target="_blank">
   <img src="https://github.com/fokhruli/fokhruli/blob/main/twitter.svg?raw=true" alt="My Twitter Profile" height="35" width="35">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## You can email me about any query.
 * Mail me @ [fokhrul.rmedu@gmail.com](mailto:fokhrul.rmedu@gmail.com)
-
+-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokhruli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fokhruli" /></p>
 
