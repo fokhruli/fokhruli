@@ -1,6 +1,8 @@
 ### Hi there 👋
 Hello, I am Md Fokhrul Islam, Deep Learning enthusiastic passionate about Computer vision, Geometric Deep Learning, Reinforcement Learning and their application application on healthcare, robotics and social good.
 
+<img align="right" alt="research" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
+
 <!--
 **fokhruli/fokhruli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
