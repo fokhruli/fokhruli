@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Fokhrul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fokhruli&theme=dracula)](https://github.com/fokhruli)
+[![Fokhrul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fokhruli&theme=xcode)](https://github.com/fokhruli)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokhruli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fokhruli" /></p>
 
