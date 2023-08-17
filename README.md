@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I am Md Fokhrul Islam, Deep Learning enthusiastic passionate about Computer vision, Geometric Deep Learning, Reinforcement Learning and their application application on medical science.
+Hello, I am Md Fokhrul Islam, Deep Learning enthusiastic passionate about Computer vision, Geometric Deep Learning, Reinforcement Learning and their application application on healthcare, robotics and social good.
 
 <!--
 **fokhruli/fokhruli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fokhruli&label=Profile%20views&color=0e75b6&style=flat" alt="fokhruli" /> </p>
+
 ## Reach me here
 <a href="https://twitter.com/fokhrul_i" target="_blank">
   <img src="https://github.com/fokhruli/fokhruli/blob/main/twitter.svg?raw=true" alt="My Twitter Profile" height="35" width="35">
