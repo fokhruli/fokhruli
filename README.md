@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **pytorch lightening**
 
-- 💬 Ask me about **Robotics, Machine learning **
+- 💬 Ask me about **Robotics, Machine learning**
 
 - 📫 How to reach me **fokhrul.rmedu@gmail.com**
 
