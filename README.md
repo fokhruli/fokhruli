@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I am Md Fokhrul Islam, Deep Learning enthusiastic passionate about Computer vision, Geometric Deep Learning, Reinforcement Learning and their application application on healthcare, robotics and social good.
+Hello, I am Md Fokhrul Islam, Robotics and AI enthusiastic passionate about Robot Vision, Geometric Deep Learning, Reinforcement Learning and their application on healthcare, robotics and social good.
 
 <img align="right" alt="research" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Robotics, Machine learning**
 
-- 📫 How to reach me **fokhrul.rmedu@gmail.com**
+- 📫 Reach me @ **fokhrul.rmedu@gmail.com**
 
 - ⚡ Fun fact: **I love books that aren't easy to understand!**
 
