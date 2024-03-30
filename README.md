@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 [![Fokhrul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fokhruli&theme=tokyonight)](https://github.com/fokhruli)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokhruli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fokhruli" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fokhruli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fokhruli" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fokhruli&show_icons=true&locale=en&theme=tokyonight" alt="fokhruli" /></p>
 
