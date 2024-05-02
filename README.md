@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **3D deep learning and robotics**
 
-- 🌱 I’m currently learning **pytorch lightening**
+- 🌱 I’m currently learning **LangChain for LLM Application**
 
-- 💬 Ask me about **Robotics, Machine learning**
+- 💬 Ask me about **Robotics, Deep learning**
 
 - 📫 Reach me @ **fokhrul.rmedu@gmail.com**
 
