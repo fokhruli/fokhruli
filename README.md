@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach me @ **fokhrul.rmedu@gmail.com**
 
-- ⚡ Fun fact: **I love books that aren't easy to understand!**. Now reading **BIOMECHANICS AND MOTOR CONTROL OF HUMAN MOVEMENT by DAVID A. WINTER** [https://onlinelibrary.wiley.com/doi/book/10.1002/9780470549148](link)
+- ⚡ Fun fact: **I love books that aren't easy to understand!**. Now reading **BIOMECHANICS AND MOTOR CONTROL OF HUMAN MOVEMENT by DAVID A. WINTER** --> [link](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470549148)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
