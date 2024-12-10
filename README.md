@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on **3D deep learning and robotics**
+- 🔭 I’m currently working on **Deep reinforcement learning and assistive devices**
 
-- 🌱 I’m currently learning **LangChain for LLM Application**
+- 🌱 I’m currently learning **LLM based guidance for patients with disability**
 
 - 💬 Ask me about **Robotics, Deep learning**
 
 - 📫 Reach me @ **fokhrul.rmedu@gmail.com**
 
-- ⚡ Fun fact: **I love books that aren't easy to understand!**
+- ⚡ Fun fact: **I love books that aren't easy to understand!**. Now reading **BIOMECHANICS AND MOTOR CONTROL OF HUMAN MOVEMENT by DAVID A. WINTER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
