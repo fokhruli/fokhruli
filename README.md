@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on **Deep reinforcement learning and assistive devices**
+- 🔭 I’m currently working on **Deep learning and assistive systems**
 
 - 🌱 I’m currently learning **LLM based guidance for patients with disability**
 
