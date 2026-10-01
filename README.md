@@ -36,19 +36,17 @@ Here are some ideas to get you started:
 
 ## You can email me about any query.
 * Mail me @ [fokhrul.rmedu@gmail.com](mailto:fokhrul.rmedu@gmail.com)
--->
+
 
 
 - 🔭 I’m currently working on **Deep learning and assistive systems**
 
 - 🌱 I’m currently learning **LLM based guidance for patients with disability**
 
-- 💬 Ask me about **Robotics, Deep learning**
+- 💬 Ask me about **Healthcare, Robotics, Deep learning**
 
 - 📫 Reach me @ **fokhrul.rmedu@gmail.com**
-
-- ⚡ Fun fact: **I love books that aren't easy to understand!**. Currently reading **BIOMECHANICS AND MOTOR CONTROL OF HUMAN MOVEMENT by DAVID A. WINTER** --> [link](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470549148)
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fokhrul_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fokhrul" height="30" width="40" /></a>
